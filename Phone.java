@@ -20,12 +20,6 @@ public class Phone {
 		Scanner input=new Scanner(System.in);
 		num=input.nextInt();
 		System.out.println("Name And Phone Number is : "+name_user[num]+" : "+ phone_user[num]);
-		
-		
-		
-		
-		
-		
 		/*int found=0;
 		int fndidx=-1;
 		

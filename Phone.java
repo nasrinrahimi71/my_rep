@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Phone {
 	public static void main(String [] args)
 	{
-		String[] name_user =new String[3];
-		String[] phone_user =new String[3];
+		String[] name_user =new String[5];
+		String[] phone_user =new String[5];
 		for(int i=0;i<3;i++) {
 			
 			Scanner input=new Scanner(System.in);
